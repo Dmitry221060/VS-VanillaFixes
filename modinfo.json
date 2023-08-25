@@ -1,0 +1,8 @@
+{
+    "type": "code",
+    "modid": "vanillafixes",
+    "name": "Vanilla Fixes",
+    "authors": [ "Dmitry221060" ],
+    "description": "Fixes crashes and exceptions in the main game",
+    "version": "1.0.0"
+}
